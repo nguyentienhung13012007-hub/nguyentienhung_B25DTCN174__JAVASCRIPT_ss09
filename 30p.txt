@@ -1,0 +1,18 @@
+cn1:
+lọc giá trên  500:::dùng filter.price
+cn2: 
+kiểm tra dữ liệu kiểm tra sp nào  hết,tất cả có trên 100 không
+dùng vonngf lặp ktr quatity xem có nào hết hanngf thì trả về true
+dùng filter price nào trên 100 thì true
+cn3:
+phân tích hòa vốn: tính tổng gth tài sản trong kho
+price và stock : dùng reduce
+cn4:
+chiến dịch giảm giá:
+giảm giá 10%: đè lên giá cũ 
+cn5:
+truy vấn từ khóa
+tìm sản phẩm trong mảng có từ khóa
+cn6:
+báo cáo tồn kho:
+in danh sách và trạng thái
